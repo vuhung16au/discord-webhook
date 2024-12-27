@@ -2,7 +2,7 @@
 
 How to call a discord webhook using Python.
 
-# Run the tool 
+# Run the demo 
 
 - clone this repo
 - `python -m venv .venv`
